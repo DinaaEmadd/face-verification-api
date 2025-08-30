@@ -17,3 +17,4 @@ A simple API that verifies if two face images belong to the same person using **
 ### Install dependencies
 ```bash
 pip install fastapi uvicorn opencv-python-headless numpy insightface
+
